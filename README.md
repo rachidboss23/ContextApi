@@ -9,8 +9,8 @@ Contexto Global:
 use React Context API para manejar el estado global, como los personajes seleccionados como favoritos, compartido entre las diferentes secciones.
 
 Sistema de Favoritos:
-El sistema permite:
-Agregar personajes a favoritos: existe una funcionalidad para guardar los personajes seleccionados en una lista manejada por el Context API.
+el sistema permite 
+agregar personajes a favoritos: existe una funcionalidad para guardar los personajes seleccionados en una lista manejada por el Context API.
 Desmarcar favoritos: Se puede eliminar un personaje de favoritos, actualizando la lista.
 Componentes principales
 
