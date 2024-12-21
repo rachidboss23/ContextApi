@@ -1,33 +1,24 @@
-El sitio web fue construido con Vite y React, centrado en la visualización de personajes de Dragon Ball.
+El sitio web fue desarrollado con Vite y React para mostrar personajes de Dragon Ball.
+
+Características principales:
 
 Navegación:
-La aplicación tiene un menú con dos secciones principales:
 
-Home: Página inicial que muestra una lista de personajes.
+Home: Lista de personajes.
 
-Favoritas: Sección para ver los personajes marcados como favoritos.
+Favoritas: Personajes marcados como favoritos.
 
-Contexto Global:
-Utiliza React Context API para manejar el estado global, como los personajes seleccionados como favoritos, compartido entre las diferentes secciones.
+Estado Global: Manejado con React Context API para gestionar favoritos.
 
 Sistema de Favoritos:
 
-Agregar favoritos: Funcionalidad para guardar personajes seleccionados en una lista manejada por Context API.
-
-Desmarcar favoritos: Permite eliminar personajes de favoritos, actualizando la lista.
+Agregar y eliminar personajes de la lista de favoritos.
 
 Componentes principales:
 
-HomeComponent: Muestra la lista de personajes e incluye opciones para agregar a favoritos.
+Home, Favoritas, Header/NavBar, y Context Provider.
 
-FavoritasComponent: Presenta los personajes marcados como favoritos.
+Uso de API: Obtiene datos de personajes a través de una API REST.
 
-Header o NavBar: Contiene enlaces a Home y Favoritas.
-
-Context Provider: Proporciona acceso al estado global relacionado con favoritos.
-
-Uso de API:
-Consume una API REST para obtener los datos de los personajes.
-
-Link del sitio:
+Link:
 https://context-api-tan.vercel.app/
