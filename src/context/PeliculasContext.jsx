@@ -14,7 +14,7 @@ const PeliculasProvider = ({ children }) => {
                 // Imágenes en el orden deseado
                 const images = [
                     "https://depor.com/resizer/xjQQIRWQbRxeaPYA4mzr1V7zsDQ=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DAYT2F5NUNB7VPAFKUPHNDXVQA.jpg",
-                    "https://www.geekmi.news/__export/1648482779692/sites/debate/img/2022/03/28/vegeta-majin.jpg_673822677.jpg",
+                    "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/12/vegeta-volvera-protagonizar-portada-serie-roja-dragon-ball-super-perfil-sabio-maduro-4271704.jpg?tf=1200x",
                     "https://www.metro951.com/wp-content/uploads/2015/01/Portada1.jpg",
                     "https://www.mundodeportivo.com/alfabeta/hero/2024/01/gotenks-.jpg?width=1200",
                     "https://www.mdtech.news/u/fotografias/m/2024/3/5/f1280x720-38078_169753_5050.jpg",
